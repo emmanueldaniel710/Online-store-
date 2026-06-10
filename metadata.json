@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Collective",
+  "description": "A sophisticated multi-brand luxury fashion and lifestyle destination combining Jewelry, Clothing, Shoes, Accessories, and Makeup with an immersive multi-world experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
